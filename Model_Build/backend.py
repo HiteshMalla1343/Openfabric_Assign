@@ -13,7 +13,7 @@ warnings.filterwarnings('ignore')
 nltk.download('popular', quiet=True)
 stopwords = stopwords.words('english')
 lemmatizer = WordNetLemmatizer()
-df = pd.read_csv('/Users/hiteshmalla/Downloads/openfabric-ai-software-engineer/Model/of dataset/questions.csv')
+df = pd.read_csv('../of dataset/questions.csv')
 
 def tokenizer(text):
     tokens = word_tokenize(text)
