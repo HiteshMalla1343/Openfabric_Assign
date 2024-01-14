@@ -1,6 +1,8 @@
 # AI Junior Developer Test 
 Welcome! You’ve stepped into the arena – now show us what you’ve got! 
+##FLowChart
 
+<img src="https://github.com/HiteshMalla1343/Openfabric_Assign/blob/main/flowchart.png">
 ## Mission
 You're not just fiddling with code here; you're architecting the future. Your battleground? An AI app framework crying out for a brain.
 
